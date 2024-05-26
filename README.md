@@ -35,11 +35,11 @@
 
 ## Siteden bazı görseller
 ### Ana sayfa
-### ![menu](./img/JSGame_Menu.png)
+### ![anasayfa](./pics/anasayfa.png)
 ### Kayıt olma
-### ![bolum1](./img/JSGame_Sahne1.png)
+### ![kaydolma](./pics/kayitolma.png)
 ### Admin Profili
-### ![alt text](./img/JSGame_Sahne2.png)
+### ![admin](./pics/admin.png)
 
 ## Projeyi Yapan
 Mustafa AYKUT
