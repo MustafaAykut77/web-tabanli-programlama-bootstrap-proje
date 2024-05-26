@@ -1,7 +1,7 @@
 # PHP+Mysql Web Uygulaması Projesi
 
 ## Proje Tanıtım Videosu
-[Oynanış Videosu](https://youtu.be/SIEGoBo7YGc)
+[Video](#)
 
 ## Projenin Tanıtımı
 
