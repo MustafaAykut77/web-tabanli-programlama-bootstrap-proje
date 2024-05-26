@@ -35,11 +35,11 @@
 
 ## Siteden bazı görseller
 ### Ana sayfa
-### ![anasayfa](./pics/anasayfa.png)
+### ![anasayfa](./images/anasayfa.png)
 ### Kayıt olma
-### ![kaydolma](./pics/kayitolma.png)
+### ![kaydolma](./images/kayitolma.png)
 ### Admin Profili
-### ![admin](./pics/admin.png)
+### ![admin](./images/admin.png)
 
 ## Projeyi Yapan
 Mustafa AYKUT
