@@ -33,12 +33,12 @@
 ### Mangalar:
 * Burada sitede kayıtlı olan mangalara ve özelliklerine bakabilirsiniz.
 
-## Oyundan bazı görseller
-### Menü
+## Siteden bazı görseller
+### Ana sayfa
 ### ![menu](./img/JSGame_Menu.png)
-### Bölüm 1
+### Kayıt olma
 ### ![bolum1](./img/JSGame_Sahne1.png)
-### Bölüm 2
+### Admin Profili
 ### ![alt text](./img/JSGame_Sahne2.png)
 
 ## Projeyi Yapan
