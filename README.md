@@ -28,8 +28,8 @@
 ### Giriş Yapma:
 * Kayıt olan kişi kullanıcı adı ve şifresi ile siteye giriş yapar.
 ### Profil:
-* Bu sayfa kişisel bilglerinizi görebilir, düzenleyebilir veya çıkış yapabilirsiniz.
-* Ekstra olarak kullanıcı adınız "admin" ise siteye manga ekleyebilir veya silebilir. Kullanıcı görüntüleyebilirsiniz.
+* Bu sayfada kişisel bilglerinizi görebilir, düzenleyebilir veya çıkış yapabilirsiniz.
+* Ekstra olarak kullanıcı adınız "admin" ise siteye manga ekleyebilir, silebilir veya kullanıcıları görüntüleyebilirsiniz.
 ### Mangalar:
 * Burada sitede kayıtlı olan mangalara ve özelliklerine bakabilirsiniz.
 
