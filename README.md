@@ -23,12 +23,15 @@
 ### Ana sayfa:
 * Sağ üstteki menülerden site içinde dolaşabilirsiniz.
 * En alttaki menüden de bana ulaşabilirsiniz.
-### Blok Koyma:
-* Sol tıklama ile blok konur.
-### Durdurma:
-* ESC tuşu veya soldaki menü ile oyun durdurulur.
-### Baştan başlatma:
-* R tuşu veya soldaki menü ile oyun baştan başlatılır.
+### Kaydolma:
+* Kullanıcı adı, e-posta ve istenilen şifre ile siteye kaydolunur.
+### Giriş Yapma:
+* Kayıt olan kişi kullanıcı adı ve şifresi ile siteye giriş yapar.
+### Profil:
+* Bu sayfa kişisel bilglerinizi görebilir, düzenleyebilir veya çıkış yapabilirsiniz.
+* Ekstra olarak kullanıcı adınız "admin" ise siteye manga ekleyebilir veya silebilir. Kullanıcı görüntüleyebilirsiniz.
+### Mangalar:
+* Burada sitede kayıtlı olan mangalara ve özelliklerine bakabilirsiniz.
 
 ## Oyundan bazı görseller
 ### Menü
