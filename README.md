@@ -9,14 +9,17 @@
 * Bu proje bir manga okuma sitesi simülasyonudur. Siteye üye olabilir, profilinizi görebilir ve düzenleyebilirsiniz.
 * Mangaları keşfedebilir, eğer ki kullanıcı adınız "admin" ise siteye manga ekleyebilir, manga ve kullanıcıları silebilirsiniz.
 
-## Projeyi Xampp ile localhost'ta nasıl çalıştırırım?
+## Projeyi XAMPP ile localhost'ta nasıl çalıştırırım?
 
-Oyuna ilk girildiğinde Sahne 1 veya Sahne 2'lerden bir tanesi seçilir. Oyun artık oynanabilir olur. Bu bölümden diğer bölüme istenilen bir zamanda ESC veya soldaki tuştan oyunu durdurup geçilebilir.
+* Proje dosyalarını indirdikten sonra xampp/htdocs klasörünün içine atılır.
+* XAMPP uygulamasından Apache ve MySQL başlatılır.
+* Tarayıcıdan localhost/proje_xampp adresine gidilir.
 
-## Kontroller
+## Sitede yapabilecekleriniz
 
-### Yürüme:
-* A,D tuşları ile yürünür W ile zıplanır.
+### Ana sayfa:
+* Sağ üstteki menülerden site içinde dolaşabilirsiniz.
+* En alttaki menüden de bana ulaşabilirsiniz.
 ### Blok Koyma:
 * Sol tıklama ile blok konur.
 ### Durdurma:
