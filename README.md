@@ -11,7 +11,9 @@
 
 ## Projeyi XAMPP ile localhost'ta nasıl çalıştırırım?
 
-* Proje dosyalarını indirdikten sonra xampp/htdocs klasörünün içine atılır.
+* Proje dosyalarını indirdikten sonra XAMPP uygulamasının kurulu olduğu dizine gidilir.
+* xampp klasörünün içindeki htdocs dosyasına girilir.
+* Bu dosyanın içinde proje_xampp adında bir klasör açılır ve içine indirilen proje dosyaları atılır.
 * XAMPP uygulamasından Apache ve MySQL başlatılır.
 * Tarayıcıda localhost/phpmyadmin adresine gidilir.
 * Sol üstten SQL kodları yazma kısmına proje dosyaları içindeki Veritabani.sql dosyasındaki kodlar yazılır ve Git tuşuna tıklanır.
