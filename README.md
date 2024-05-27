@@ -6,7 +6,7 @@
 ## Projenin Tanıtımı
 
 * İlk olarak Manga nedir? Mangayı çok kısa bir şekilde açıklamak gerekirse Japon çizgi romanıdır. 
-* Bu proje bir manga okuma sitesi simülasyonudur. Siteye üye olabilir, profilinizi görebilir ve düzenleyebilirsiniz.
+* Bu proje Bootstrap v4.6 kütüphaneleri ile oluşturulmuş bir manga okuma sitesi simülasyonudur. Siteye üye olabilir, profilinizi görebilir ve düzenleyebilirsiniz.
 * Mangaları keşfedebilir, eğer ki kullanıcı adınız "admin" ise siteye manga ekleyebilir, manga ve kullanıcıları silebilirsiniz.
 
 ## Projeyi XAMPP ile localhost'ta nasıl çalıştırırım?
