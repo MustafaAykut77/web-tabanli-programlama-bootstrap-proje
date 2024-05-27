@@ -14,9 +14,10 @@
 * Proje dosyalarını indirdikten sonra xampp/htdocs klasörünün içine atılır.
 * XAMPP uygulamasından Apache ve MySQL başlatılır.
 * Tarayıcıda localhost/phpmyadmin adresine gidilir.
-* Sol üstten SQL kodları yazma kısmına proje dosyaları içindeki Veritabani.sql dosyasındaki kodlar yazılır.
+* Sol üstten SQL kodları yazma kısmına proje dosyaları içindeki Veritabani.sql dosyasındaki kodlar yazılır ve Git tuşuna tıklanır.
 * Veri tabanında tablolar ve örnek 3 manga oluşur.
 * Tarayıcıdan localhost/proje_xampp adresine gidilir.
+* Artık site erişime açıktır iyi kullanımlar dilerim.
 
 ## Sitede yapabilecekleriniz
 
